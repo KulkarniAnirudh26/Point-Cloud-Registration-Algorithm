@@ -1,9 +1,9 @@
 
 
-###PROJECT OJECTIVE: 
+### ROJECT OJECTIVE: 
 To develop a pipeline for registering partial point cloud with 3D CAD model 
 
-###STEPS INVOLVED WHILE RUNNING THE CODE: 
+### STEPS INVOLVED WHILE RUNNING THE CODE: 
 1. Make a BUILD folder, CMkeLists.txt and CODE.cpp in the directory you wish to run the code 
 2. The arguments to be passses to the code are supposed to be place in build
 3. The code accepts 3 arguments 
