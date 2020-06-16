@@ -1,6 +1,6 @@
 
 
-### ROJECT OJECTIVE: 
+### PROJECT OJECTIVE: 
 To develop a pipeline for registering partial point cloud with 3D CAD model 
 
 ### STEPS INVOLVED WHILE RUNNING THE CODE: 
@@ -63,6 +63,7 @@ Sample point clouds captured using Kinect are placed in build folder.
 
 ### Authors 
 This Project has been done by: 
-**Anirudh Kulkarni** - [KulkarniAnirudh26](https://github.com/KulkarniAnirudh26)
+
+* **Anirudh Kulkarni** - [KulkarniAnirudh26](https://github.com/KulkarniAnirudh26)
 * **Siddhant Nadkarni** - [SiddhantNadkarni](https://github.com/SiddhantNadkarni)
 
