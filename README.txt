@@ -1,8 +1,9 @@
-README FILE FOR PROJECT BY SIDDHANT NADKARNI AND ANIRUDH KULKARNI 
 
-PROJECT OJECTIVE: TO REGISTER THE OBJECT WITH RESPECT TO ROBOT BASE USING KINECT POINT CLOUD DATA
 
-#STEPS INVOLVED WHILE RUNNING THE CODE: 
+###PROJECT OJECTIVE: 
+To develop a pipeline for registering partial point cloud with 3D CAD model 
+
+###STEPS INVOLVED WHILE RUNNING THE CODE: 
 1. Make a BUILD folder, CMkeLists.txt and CODE.cpp in the directory you wish to run the code 
 2. The arguments to be passses to the code are supposed to be place in build
 3. The code accepts 3 arguments 
@@ -60,5 +61,8 @@ Kinect_to_Flang_transformation_matrix for Robot ABB= F_T_tcp_avg =   [  0.9912  
 
 Sample point clouds captured using Kinect are placed in build folder. 
 
-
+### Authors 
+This Project has been done by: 
+**Anirudh Kulkarni** - [KulkarniAnirudh26](https://github.com/KulkarniAnirudh26)
+* **Siddhant Nadkarni** - [SiddhantNadkarni](https://github.com/SiddhantNadkarni)
 
